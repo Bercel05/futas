@@ -1,0 +1,7 @@
+C:\Users\markusb\Gitwork\futasMarkusB\bin\Debug\futasMarkusB.exe.config
+C:\Users\markusb\Gitwork\futasMarkusB\bin\Debug\futasMarkusB.exe
+C:\Users\markusb\Gitwork\futasMarkusB\bin\Debug\futasMarkusB.pdb
+C:\Users\markusb\Gitwork\futasMarkusB\obj\Debug\futasMarkusB.csproj.AssemblyReference.cache
+C:\Users\markusb\Gitwork\futasMarkusB\obj\Debug\futasMarkusB.csproj.CoreCompileInputs.cache
+C:\Users\markusb\Gitwork\futasMarkusB\obj\Debug\futasMarkusB.exe
+C:\Users\markusb\Gitwork\futasMarkusB\obj\Debug\futasMarkusB.pdb
